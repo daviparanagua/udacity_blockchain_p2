@@ -5,4 +5,4 @@
 
 - Your ERC-721 Token Name: Awesome Star
 - Your ERC-721 Token Symbol: AWS
-- Your “Token Address” on the Rinkeby Network: `0x4465c9b426921684a6d6257c8682e163ce80a6e3` https://rinkeby.etherscan.io/token/0x4465c9b426921684a6d6257c8682e163ce80a6e3)
+- Your “Token Address” on the Rinkeby Network: `0xbee15d89f0c434db3aea8c4b40de54064b3ac786` https://rinkeby.etherscan.io/token/0xbee15d89f0c434db3aea8c4b40de54064b3ac786)

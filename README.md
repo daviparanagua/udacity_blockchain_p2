@@ -3,8 +3,8 @@
 - Truffle v5.2.4 (core: 5.2.4)
 - openzeppelin-solidity-2.1.2
 
-- Your ERC-721 Token Name: Stella Mia
-- Your ERC-721 Token Symbol: STM
-- Your “Token Address” on the Rinkeby Network: `0x70d98b3d9e810fa6a6fd2cbfb59ff34853029e98?a=1234`
+- Your ERC-721 Token Name: Awesome Star
+- Your ERC-721 Token Symbol: AWS
+- Your “Token Address” on the Rinkeby Network: `0x12d6a839c9b0f0dbfef907f427aa8f00bec4f595` (https://rinkeby.etherscan.io/token/0x12d6a839c9b0f0dbfef907f427aa8f00bec4f595)
 
-- Contract: 0x70d98B3d9E810FA6A6Fd2CBFb59FF34853029e98
+- Contract: 0x12d6a839c9b0f0dbfef907f427aa8f00bec4f595
